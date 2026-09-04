@@ -1,3 +1,4 @@
 qwerty
 qwerty
 changes made by developer A
+changes made by developer B to create 2 way merge
